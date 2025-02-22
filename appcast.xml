@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Sketchr</title>
+        <item>
+            <title>0.1</title>
+            <pubDate>Sat, 22 Feb 2025 22:20:36 +0000</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.1</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/iKarsk/sketchr/releases/download/prod/Sketchr.dmg" length="1154195" type="application/octet-stream" sparkle:edSignature="szX5/RGPbYNLEL6gkXwd8c3C6GOKC657QIkuM3FI8M3HB6i0Rnjm2213PNqoYoDMkpnc7a2/rBkbhHLjLlMDAA=="/>
+        </item>
+    </channel>
+</rss>
